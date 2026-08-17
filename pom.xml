@@ -11,7 +11,7 @@
 
     <modules>
         <module>caching</module>
-        <module>exception-handler</module>
+        <module>handler-exception</module>
         <module>upload-download-api</module>
         <module>webpage-thymeleaf</module>
         <module>openapi-swagger-doc</module>
